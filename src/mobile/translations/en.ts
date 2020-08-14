@@ -54,4 +54,8 @@ export const en = {
 
     'page.mobile.userInfo.details.uid': 'UID: {uid}',
     'page.mobile.userInfo.logout.button': 'Logout',
+    'page.mobile.profileLinks.main.2fa': 'Two-factor authentication',
+    'page.mobile.profileLinks.main.changePassword': 'Change password',
+    'page.mobile.profileLinks.main.activity': 'Account activity',
+    'page.mobile.profileLinks.main.apiKeys': 'My API keys',
 };
